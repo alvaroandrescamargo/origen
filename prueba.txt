@@ -1,2 +1,2 @@
 hola mundo
-Esto es un conflicto
+Esto no es un conflicto
